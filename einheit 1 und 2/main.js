@@ -1,0 +1,1 @@
+alert("Ihre Website wurde geladen")
